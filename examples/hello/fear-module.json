@@ -1,0 +1,10 @@
+{
+  "id": "hello",
+  "name": "Hello",
+  "version": "1.0.0",
+  "author": "FUR Example",
+  "description": "Adds a small .hello command.",
+  "fear": ">=0.1.0",
+  "sdk": ">=0.1.2",
+  "entrypoint": "main.py"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "modules": [
+    {
+      "id": "hello",
+      "version": "1.0.0",
+      "archive": "packages/hello-1.0.0.zip",
+      "sha256": "5a3271a395f661303b70f855e2c451f23e2e37aca5741d688cd958e7cdee6cdc"
+    }
+  ]
+}
